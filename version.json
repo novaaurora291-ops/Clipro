@@ -1,5 +1,5 @@
 {
-    "version": "1.1.0",
-    "download_url": "https://github.com/novaaurora291-ops/Clipro/releases/download/v1.1.0/update.zip",
-    "changelog": "• Right-click context menu added (Play, Open Folder, Delete, Retry)\n• Folder Structure option added in Settings\n• Limit Hashtags moved to Remove @ Mention row\n• Tooltips added on Folder Structure options\n• Bug fixes and improvements"
+    "version": "1.2.0",
+    "download_url": "https://github.com/novaaurora291-ops/Clipro/releases/download/v1.2.0/update.zip",
+    "changelog": "• Install location changed to AppData/Local for smoother updates\n• Auto-updater no longer requires admin privileges\n• Bug fixes and stability improvements"
 }
