@@ -1,5 +1,5 @@
 {
-    "version": "1.2.0",
-    "download_url": "https://github.com/novaaurora291-ops/Clipro/releases/download/v1.2.0/update.zip",
-    "changelog": "• Install location changed to AppData/Local for smoother updates\n• Auto-updater no longer requires admin privileges\n• Bug fixes and stability improvements"
+    "version": "1.3.0",
+    "download_url": "https://github.com/novaaurora291-ops/Clipro/releases/download/v1.3.0/Clipro.exe",
+    "changelog": "• RedNote (小红书) support added\n• Auto metadata cleaning after every download\n• Stable license activation across restarts\n• UI improvements"
 }
